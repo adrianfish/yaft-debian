@@ -1,3 +1,5 @@
 components
 shared
 webapps
+debian/yaft*
+debian/files
