@@ -10,5 +10,4 @@ right place, update debian/changelog to reflect the new version, then run:
 
 debuild --no-lintian -us -uc
 
-YAFT's .deb file will be be built into the directory above this repository
-directory.
+YAFT's .deb file will be be built into the directory above this one.
